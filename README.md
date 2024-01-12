@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Logic-Beach
-- 👀 I’m interested in too many things
-- 🌱 I’m currently learning JS, C#, Solidity, Web3.0, ...
-- 💞️ I’m looking to collaborate on anything really, but I am just getting to the point where I can code, so don't expect too much!
+
